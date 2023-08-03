@@ -6,4 +6,4 @@ Codecademy portfolio project for a javascript program that creates a funny rando
 1. Creates 4 arrays with 20 words each. These reflect lists of adjectives, nouns, -ing verbs, and adverbs.
 2. Generates 6 random numbers for randomly accessing words in the arrays
 3. Includes a function that prints a message with 6 randomly selected words with the following format:
-  *The (adjective) (noun) is (verbing) the (adjective) (noun) (adverbily)
+  *The (adjective) (noun) is (verbing) the (adjective) (noun) (adverbily)*
